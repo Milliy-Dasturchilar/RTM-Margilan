@@ -1,5 +1,11 @@
 {
   "Version": 1,
-  "ProjectMap": {},
-  "NextColorIndex": 0
+  "ProjectMap": {
+    "3fcdbb68-3553-4e91-8ad1-10000447beb0": {
+      "ProjectGuid": "3fcdbb68-3553-4e91-8ad1-10000447beb0",
+      "DisplayName": "DavomatProject.Api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
 }
