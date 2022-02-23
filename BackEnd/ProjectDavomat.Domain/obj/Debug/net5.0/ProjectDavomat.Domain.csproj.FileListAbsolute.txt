@@ -1,0 +1,15 @@
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\bin\Debug\net5.0\ProjectDavomat.Domain.deps.json
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\bin\Debug\net5.0\ProjectDavomat.Domain.runtimeconfig.json
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\bin\Debug\net5.0\ProjectDavomat.Domain.runtimeconfig.dev.json
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\bin\Debug\net5.0\ProjectDavomat.Domain.dll
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\bin\Debug\net5.0\ref\ProjectDavomat.Domain.dll
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\bin\Debug\net5.0\ProjectDavomat.Domain.pdb
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.csproj.AssemblyReference.cache
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.AssemblyInfoInputs.cache
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.AssemblyInfo.cs
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.csproj.CoreCompileInputs.cache
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.dll
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ref\ProjectDavomat.Domain.dll
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.pdb
+D:\davronoff\RTM-Margilan\BackEnd\ProjectDavomat.Domain\obj\Debug\net5.0\ProjectDavomat.Domain.genruntimeconfig.cache

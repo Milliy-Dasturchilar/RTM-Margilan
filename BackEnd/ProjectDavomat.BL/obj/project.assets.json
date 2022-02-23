@@ -900,11 +900,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\davronoff\\ControlSystem\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
+      "projectUniqueName": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
       "projectName": "ProjectDavomat.BL",
-      "projectPath": "D:\\davronoff\\ControlSystem\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
+      "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
       "packagesPath": "C:\\Users\\MRTMTex00051\\.nuget\\packages\\",
-      "outputPath": "D:\\davronoff\\ControlSystem\\ProjectDavomat.BL\\obj\\",
+      "outputPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\MRTMTex00051\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -921,11 +921,11 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\davronoff\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj": {
-              "projectPath": "D:\\davronoff\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj"
+            "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj": {
+              "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj"
             },
-            "D:\\davronoff\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
-              "projectPath": "D:\\davronoff\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj"
+            "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
+              "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jAO1sdY9kPYWGSI34VH1dpFtTMbNqSS65Rni3943eNIwN87P5/7oI/UdaYLnJWswA+ctQncQIqXBOQfPp7AnAg==",
+  "dgSpecHash": "lr+Prrr3ai11IvmPEm8+k1GILNh5fRpIfOeF69k6/eY1AsXnjD5C5zcg2QTLs2KxQB+M9qTEdyIP/Nke8yCUQQ==",
   "success": true,
-  "projectFilePath": "D:\\davronoff\\ControlSystem\\DavomatProject.Api\\DavomatProject.Api.csproj",
+  "projectFilePath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\DavomatProject.Api\\DavomatProject.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MRTMTex00051\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MRTMTex00051\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
