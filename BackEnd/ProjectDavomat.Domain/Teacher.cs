@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
@@ -17,7 +18,6 @@ namespace ProjectDavomat.Domain
         [Required]
         public string Image { get; set; }
         [Required]
-        public MyExperince Experince { get; set; }
-        public MyCourses Courses { get; set; }
+        public string Experince { get; set; }
     }
  }

@@ -1,38 +1,36 @@
 {
   "format": 1,
   "restore": {
-    "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj": {}
+    "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj": {}
   },
   "projects": {
-    "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj": {
+    "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
+        "projectUniqueName": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
         "projectName": "ProjectDavomat.BL",
-        "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
-        "packagesPath": "C:\\Users\\MRTMTex00051\\.nuget\\packages\\",
-        "outputPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.BL\\obj\\",
+        "projectPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.BL\\ProjectDavomat.BL.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.BL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MRTMTex00051\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj": {
-                "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj"
+              "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj": {
+                "projectPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj"
               },
-              "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
-                "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj"
+              "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
+                "projectPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj"
               }
             }
           }
@@ -47,6 +45,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Http.Features": {
+              "target": "Package",
+              "version": "[5.0.14, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[5.0.14, )"
@@ -83,36 +85,34 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj": {
+    "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj",
+        "projectUniqueName": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj",
         "projectName": "ProjectDavomat.Data",
-        "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj",
-        "packagesPath": "C:\\Users\\MRTMTex00051\\.nuget\\packages\\",
-        "outputPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Data\\obj\\",
+        "projectPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Data\\ProjectDavomat.Data.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MRTMTex00051\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
-                "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj"
+              "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
+                "projectPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj"
               }
             }
           }
@@ -163,29 +163,27 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
+    "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj",
+        "projectUniqueName": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj",
         "projectName": "ProjectDavomat.Domain",
-        "projectPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj",
-        "packagesPath": "C:\\Users\\MRTMTex00051\\.nuget\\packages\\",
-        "outputPath": "D:\\davronoff\\RTM-Margilan\\BackEnd\\ProjectDavomat.Domain\\obj\\",
+        "projectPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\ProjectDavomat.Domain.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "D:\\RTM-WebSite\\ControlSystem\\ProjectDavomat.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\MRTMTex00051\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "https://www.nuget.org/api/v2/": {}
         },
         "frameworks": {
           "net5.0": {
@@ -239,7 +237,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
         }
       }
     }
